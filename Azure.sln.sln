@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Azure.Web", "Azure.Web\Azure.Web.csproj", "{E57CD086-3540-4F20-943E-B944DEBB3470}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codemaze-cosmosdb", "AzureCosmosDB\codemaze-cosmosdb.csproj", "{F1B9329D-B585-4DE5-BA3F-39C026F1A7B5}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "codemaze-cosmosdb", "AzureCosmosDB\AzureCosmosDB.csproj", "{F1B9329D-B585-4DE5-BA3F-39C026F1A7B5}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,5 +1,4 @@
 {
     "appService.preDeployTask": "publish-release",
-    "appService.deploySubpath": "Azure.Web\\bin\\Release\\net6.0\\publish",
-    "appService.defaultWebAppToDeploy": "/subscriptions/30122b73-bcc2-40d8-a731-cfb518551fc3/resourceGroups/appsvc_windows_centralus/providers/Microsoft.Web/sites/azure-santosh-204"
+    "appService.deploySubpath": "Azure.Web\\bin\\Release\\net6.0\\publish"
 }
